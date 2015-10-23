@@ -24,5 +24,7 @@
 
 <?php wp_footer(); ?>
 
+<?php // THIS IS DAVID ?>
+
 </body>
 </html>
